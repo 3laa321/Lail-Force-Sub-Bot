@@ -1,8 +1,6 @@
-# Lail-Force-Sub-Bot
-telegram Force Sub Bot
 # Introduction
 **A Telegram Bot to force users to join a specific channel before sending messages in a group.**
-- Find it on Telegram as [ForcesSubs](https://t.me/Laill_12)
+- Find it on Telegram as [ForcesSubs](https://t.me/MT_ForceSubsBot)
 
 ## Todo
 - [ ] Add multiple channels support
